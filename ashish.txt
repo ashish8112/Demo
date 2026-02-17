@@ -1,3 +1,3 @@
 In this repo I will learn ML
 In this github shortname of github url + repo is ashish.
-so use git push -u ashish main
+so use git push -u ashish main.
